@@ -1,0 +1,434 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.308653,
+                    52.622128
+                ]
+            },
+            "properties": {
+                "groundName": "Carrow Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.470833,
+                    53.370278
+                ]
+            },
+            "properties": {
+                "groundName": "Bramall Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.132778,
+                    52.94
+                ]
+            },
+            "properties": {
+                "groundName": "City Ground"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.500556,
+                    53.411389
+                ]
+            },
+            "properties": {
+                "groundName": "Hillsborough"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.688056,
+                    53.772222
+                ]
+            },
+            "properties": {
+                "groundName": "Deepdale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.867778,
+                    52.475556
+                ]
+            },
+            "properties": {
+                "groundName": "St. Andrews"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.91365,
+                    54.89556
+                ]
+            },
+            "properties": {
+                "groundName": "Brunton Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.391111,
+                    50.905833
+                ]
+            },
+            "properties": {
+                "groundName": "St. Mary\u0027s Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.128611,
+                    53.555278
+                ]
+            },
+            "properties": {
+                "groundName": "Boundary Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.768333,
+                    53.654167
+                ]
+            },
+            "properties": {
+                "groundName": "John Smith\u0027s Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.583134,
+                    51.48622
+                ]
+            },
+            "properties": {
+                "groundName": "Memorial Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.695267,
+                    53.586725
+                ]
+            },
+            "properties": {
+                "groundName": "Glanford Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.144831,
+                    52.055061
+                ]
+            },
+            "properties": {
+                "groundName": "Portman Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.221667,
+                    51.475
+                ]
+            },
+            "properties": {
+                "groundName": "Craven Cottage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.065833,
+                    51.603333
+                ]
+            },
+            "properties": {
+                "groundName": "White Hart Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.191111,
+                    51.481667
+                ]
+            },
+            "properties": {
+                "groundName": "Stamford Bridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.982778,
+                    51.422222
+                ]
+            },
+            "properties": {
+                "groundName": "Madejski Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.232222,
+                    51.509167
+                ]
+            },
+            "properties": {
+                "groundName": "Loftus Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.291389,
+                    53.463056
+                ]
+            },
+            "properties": {
+                "groundName": "Old Trafford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.200278,
+                    53.483056
+                ]
+            },
+            "properties": {
+                "groundName": "City of Manchester Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.036389,
+                    51.486389
+                ]
+            },
+            "properties": {
+                "groundName": "The Valley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.401486,
+                    51.649836
+                ]
+            },
+            "properties": {
+                "groundName": "Vicarage Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.884722,
+                    52.509167
+                ]
+            },
+            "properties": {
+                "groundName": "Villa Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.142222,
+                    52.620278
+                ]
+            },
+            "properties": {
+                "groundName": "King Power Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085556,
+                    51.398333
+                ]
+            },
+            "properties": {
+                "groundName": "Selhurst Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108611,
+                    51.555
+                ]
+            },
+            "properties": {
+                "groundName": "Emirates Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.130278,
+                    52.590278
+                ]
+            },
+            "properties": {
+                "groundName": "Molineux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.083278,
+                    50.861822
+                ]
+            },
+            "properties": {
+                "groundName": "Amex Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.447222,
+                    52.915
+                ]
+            },
+            "properties": {
+                "groundName": "Pride Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4675,
+                    53.552222
+                ]
+            },
+            "properties": {
+                "groundName": "Oakwell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.302639,
+                    51.488183
+                ]
+            },
+            "properties": {
+                "groundName": "Griffin Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.362,
+                    53.4279
+                ]
+            },
+            "properties": {
+                "groundName": "New York Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.203056,
+                    51.472778
+                ]
+            },
+            "properties": {
+                "groundName": "Cardiff City Stadium"
+            }
+        }
+    ]
+}
