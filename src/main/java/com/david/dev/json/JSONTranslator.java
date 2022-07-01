@@ -1,8 +1,8 @@
 package com.david.dev.json;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,7 +13,11 @@ import com.google.gson.GsonBuilder;
 
 public class JSONTranslator {
 
-	private static final String FILE_PATH = "/Users/david/OneDrive/Tech/FootballGrounds.csv";
+	private static final String FILE_PATH = "FootballGrounds.csv";
+	
+	private static final int GROUND_NAME_IDX = 1;
+	private static final int GROUND_LAT_IDX = 3;
+	private static final int GROUND_LONG_IDX = 2;
 	
 	public String createJSONObjects(List<FootballGroundEntry> groupEntries) {
 
@@ -25,16 +29,15 @@ public class JSONTranslator {
 	
 	private static List<FootballGroundEntry> readGroundEntriesFromFile(String csvPath) {
 		final List<FootballGroundEntry> retval = new ArrayList<>();
-		try (BufferedReader reader = new BufferedReader(new FileReader(csvPath));) {
+		try (BufferedReader br = new BufferedReader(new InputStreamReader(ClassLoader.getSystemResourceAsStream(FILE_PATH)))) {
 			String line;
-			while ((line = reader.readLine()) != null) {
+			while ((line = br.readLine()) != null) {
 				String[] c = line.split(",");
-				retval.add(new FootballGroundEntry(c[1], Double.valueOf(c[3]), Double.valueOf(c[2])));
+				retval.add(new FootballGroundEntry(c[GROUND_NAME_IDX], Double.valueOf(c[GROUND_LONG_IDX]), Double.valueOf(c[GROUND_LAT_IDX])));
 			}
 			
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			throw new IllegalStateException(e);
 		}
 		
 		return retval;

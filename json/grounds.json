@@ -429,6 +429,84 @@
             "properties": {
                 "groundName": "Cardiff City Stadium"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.572222,
+                    53.777778
+                ]
+            },
+            "properties": {
+                "groundName": "Elland Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.620278,
+                    51.44
+                ]
+            },
+            "properties": {
+                "groundName": "Ashton Gate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.963889,
+                    52.509167
+                ]
+            },
+            "properties": {
+                "groundName": "The Hawthorns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.535556,
+                    53.580556
+                ]
+            },
+            "properties": {
+                "groundName": "University of Bolton Stadium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.216944,
+                    54.578333
+                ]
+            },
+            "properties": {
+                "groundName": "Riverside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.966389,
+                    53.438889
+                ]
+            },
+            "properties": {
+                "groundName": "Goodison Park"
+            }
         }
     ]
 }
